@@ -90,7 +90,7 @@ Examples
 
     # Get DHCP Option IDs as a dictionary
     options = b1ddi.get_option_ids()
-    options['43']
+    options[43]
     # 'dhcp/option_code/44bbac08-c518-11ea-b9d9-06bf0d811d6d'
 
     # Get data for zone
